@@ -1,6 +1,22 @@
-body{
-text-align:center;
+
+header{
+	background:#611078;
+	padding:1px;
+    text-align:center;
+	
 }
-p{
+header h1{
+font-family: 'Acme', sans-serif;
+	font-size:39;
+	color:#ffffff;
+}
+article h3{
+	font-family: 'Piedra', cursive;
+	font-size:30;
+}
+article p{
 	text-align:left;
+	font-size:25;
+	font-family: 'Bentham', serif;
+
 }
