@@ -66,6 +66,31 @@ p{
 .class p{
 		font-family: 'Bentham', serif;
 }
+/*if*/
+.if {
+			background-color:#cc99ff;
+}
+.if article{
+		font-family: 'Piedra', cursive;
+		font-size:30;
+}
+.if p{
+			font-family: 'Bentham', serif;
+}
+	
+	
+
+
+
+
+
+/*for all syntax*/
+h2{
+	font-size:20;
+			font-family: 'Piedra', cursive;
+
+	
+}
 	
 	
 	
