@@ -1,6 +1,8 @@
-
+body{
+	background-color:#b2f5c9;
+}
 header{
-	background:#611078;
+    background:#611078;
 	padding:1px;
     text-align:center;
 	
@@ -14,9 +16,56 @@ article h3{
 	font-family: 'Piedra', cursive;
 	font-size:30;
 }
-article p{
+p{
+	font-family: 'Anton', sans-serif;
+	font-size:20;
+}
+/*grammer of programming*/
+.grammar {
+		background-color:#cc99ff;
+}
+.grammar article{
+		font-family: 'Piedra', cursive;
+		font-size:30;
+}
+.grammar article ul li{
+			font-family: 'Bentham', serif;
+			font-size:20;
+}
+	
+
+	
+	
+
+/*intro class*/
+.intro{
+	background-color:#9eb8f5;
+}
+.intro article p{
 	text-align:left;
 	font-size:25;
 	font-family: 'Bentham', serif;
 
 }
+/*basic class*/
+.basic article header {
+	background:none;
+		
+		
+}
+.basic article h3{
+	text-align:left;
+	background-color:#cc99ff;
+	
+}
+/*for class*/
+.class{
+	background-color:#cc99ff;
+	 
+}
+.class p{
+		font-family: 'Bentham', serif;
+}
+	
+	
+	
