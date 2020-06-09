@@ -78,8 +78,24 @@ p{
 			font-family: 'Bentham', serif;
 }
 	
-	
-
+/*switch*/
+.switch{
+				background-color:#cc99ff;
+}
+.switch article{
+			font-family: 'Piedra', cursive;
+		font-size:30;
+}
+.switch p{
+				font-family: 'Bentham', serif;
+}
+.switch img{
+	padding:10;
+}
+.switch article ul li{
+			font-family: 'Bentham', serif;
+			font-size:20;
+}
 
 
 
@@ -88,9 +104,11 @@ p{
 h2{
 	font-size:20;
 			font-family: 'Piedra', cursive;
+		
 
 	
 }
+
 	
 	
 	
