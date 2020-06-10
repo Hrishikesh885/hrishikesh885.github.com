@@ -23,10 +23,14 @@ p{
 /*grammer of programming*/
 .Grammar {
 		background-color:#cc99ff;
+padding:1px;
+border:5px solid black;
 }
 .Grammar article{
 		font-family: 'Piedra', cursive;
 		font-size:30;
+		margin-top:10;
+margin-left:10;
 }
 .Grammar article ul li{
 			font-family: 'Bentham', serif;
@@ -61,18 +65,29 @@ p{
 /*for class*/
 .class{
 	background-color:#cc99ff;
-	 
+	 padding:1px;
+border:5px solid black;
+}
+.class article{
+		font-family: 'Piedra', cursive;
+		font-size:30;
+		margin-top:10;
+margin-left:10;
 }
 .class p{
-		font-family: 'Bentham', serif;
+			font-family: 'Bentham', serif;
 }
 /*if*/
 .if {
 			background-color:#cc99ff;
+			padding:1px;
+			border:5px solid black;
 }
 .if article{
 		font-family: 'Piedra', cursive;
 		font-size:30;
+		margin-top:10;
+margin-left:10;
 }
 .if p{
 			font-family: 'Bentham', serif;
@@ -81,10 +96,14 @@ p{
 /*switch*/
 .switch{
 				background-color:#cc99ff;
+				padding:1px;
+				border:5px solid black;
 }
 .switch article{
 			font-family: 'Piedra', cursive;
 		font-size:30;
+		margin-top:10;
+margin-left:10;
 }
 .switch p{
 				font-family: 'Bentham', serif;
@@ -95,13 +114,19 @@ p{
 .switch article ul li{
 			font-family: 'Bentham', serif;
 			font-size:20;
+			margin-top:10;
+margin-left:10;
 }
 .for {
 				background-color:#cc99ff;
+				padding:1px;
+				border:5px solid black;
 }
 .for article{
 			font-family: 'Piedra', cursive;
 		font-size:30;
+		margin-top:10;
+margin-left:10;
 }
 .for p{
 	font-family: 'Bentham', serif;
@@ -109,15 +134,44 @@ p{
 /*while*/
 .while{
 		background-color:#cc99ff;
+		padding:1px;
+		border:5px solid black;
 }
 .while article{
 			font-family: 'Piedra', cursive;
 		font-size:30;
+		margin-top:10;
+margin-left:10;
 }
 .while p{
 	font-family: 'Bentham', serif;
 }
-
+.whilediff {
+	 background-color:#cc99ff;
+	 padding:1px;
+	 border:5px solid black;
+}
+.whilediff{
+	text-align:center;
+}
+.do-while{
+	background-color:#cc99ff;
+	padding:1px;
+	border:5px solid black;
+}
+.do-while article{
+			font-family: 'Piedra', cursive;
+		font-size:30;
+		margin-top:10;
+margin-left:10;
+}
+.do-while  p{
+	font-family: 'Bentham', serif;
+}
+.dowhile{
+	text-align:center;
+}
+	
 
 
 /*for all syntax*/
@@ -125,7 +179,8 @@ h2{
 	font-size:20;
 			font-family: 'Piedra', cursive;
 		
-
+margin-top:10;
+margin-left:10;
 	
 }
 
