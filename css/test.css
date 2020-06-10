@@ -106,7 +106,17 @@ p{
 .for p{
 	font-family: 'Bentham', serif;
 }
-
+/*while*/
+.while{
+		background-color:#cc99ff;
+}
+.while article{
+			font-family: 'Piedra', cursive;
+		font-size:30;
+}
+.while p{
+	font-family: 'Bentham', serif;
+}
 
 
 
