@@ -13,7 +13,7 @@ header{
 /* -------navigation-------------*/
 nav{
 	background-color:#8c61b4;
-	padding:25;
+	padding:45;
 	/*width:auto;*/
 	margin-top:5px;
 }
@@ -22,7 +22,7 @@ nav a{
 	margin-top:5px;
 	border:2px inset black;
 	border-color:red;
-    padding:5px;
+    padding:2px;
 	background-color:#d3b9ec;
 	font-size:25;
 	text-decoration:none;
