@@ -1,4 +1,5 @@
-@media only screen and (min-width: 901px) {
+/*-----Prevents iPhone from resizing in landscape mode -----*/
+@media only screen and (max-width: 600px) {
 body{
 	background-color:#b2f5c9;
 }
@@ -12,16 +13,20 @@ header{
 /* -------navigation-------------*/
 nav{
 	background-color:#8c61b4;
-	padding:35;
-	width:auto;
+	padding:25;
+	/*width:auto;*/
+	margin-top:5px;
 }
 nav a{
+	margin:2px;
+	margin-top:5px;
 	border:2px inset black;
 	border-color:red;
-    padding:20px;
+    padding:10px;
 	background-color:#d3b9ec;
-	font-size:35;
+	font-size:25;
 	text-decoration:none;
+	
 }
 header h1{
 font-family: 'Acme', sans-serif;
@@ -132,6 +137,7 @@ margin-left:10;
 .if p{
 			font-family: 'Bentham', serif;
 }
+
 .if  article a{
 	float:right;
          border:2px ridge black;
@@ -158,6 +164,7 @@ margin-left:10;
 .switch p{
 				font-family: 'Bentham', serif;
 }
+
 .switch img{
 	padding:10;
 }
@@ -278,7 +285,7 @@ margin-top:10;
 margin-left:10;
 	
 }
+
 }
-	
 	
 	
