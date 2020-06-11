@@ -7,6 +7,19 @@ header{
     text-align:center;
 	
 }
+
+/* -------navigation-------------*/
+nav{
+	background-color:#8c61b4;
+	padding:35;
+	width:auto;
+}
+nav a{
+	border:2px solid black;
+	width:auto;
+	background-color:#d3b9ec;
+	font-size:35;
+}
 header h1{
 font-family: 'Acme', sans-serif;
 	font-size:39;
@@ -20,6 +33,7 @@ p{
 	font-family: 'Anton', sans-serif;
 	font-size:20;
 }
+
 /*grammer of programming*/
 .Grammar {
 		background-color:#cc99ff;
@@ -49,6 +63,7 @@ margin-left:10;
 	text-align:left;
 	font-size:25;
 	font-family: 'Bentham', serif;
+
 
 }
 /*basic class*/
