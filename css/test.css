@@ -15,10 +15,12 @@ nav{
 	width:auto;
 }
 nav a{
-	border:2px solid black;
-	width:auto;
+	border:2px inset black;
+	border-color:red;
+    padding:20px;
 	background-color:#d3b9ec;
 	font-size:35;
+	text-decoration:none;
 }
 header h1{
 font-family: 'Acme', sans-serif;
