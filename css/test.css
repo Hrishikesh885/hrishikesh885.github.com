@@ -10,18 +10,23 @@ header{
 }
 
 /* -------navigation-------------*/
-nav{
+.DESKTOP {
 	background-color:#8c61b4;
 	padding:35;
 	width:auto;
+	margin-top:5px;
 }
-nav a{
+.DESKTOP  a{
+	margin-top:5px;
 	border:2px inset black;
 	border-color:red;
-    padding:20px;
+    padding:2px;
 	background-color:#d3b9ec;
 	font-size:35;
 	text-decoration:none;
+}
+.PHONE {
+	display:none;
 }
 header h1{
 font-family: 'Acme', sans-serif;
