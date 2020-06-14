@@ -272,7 +272,23 @@ margin-bottom:80;
 		
 				
 }	
-
+/*ARRAY*/
+.ARRAY{
+	
+		background-color:#cc99ff;
+		padding:1px;
+		border:5px solid black;
+}
+.ARRAY article{
+	font-family: 'Piedra', cursive;
+		font-size:30;
+		margin-top:10;
+margin-left:10;
+margin-bottom:80;
+}
+.ARRAY p{
+	font-family: 'Bentham', serif;
+}
 
 /*for all syntax*/
 h2{
