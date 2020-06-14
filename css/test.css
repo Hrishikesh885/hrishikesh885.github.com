@@ -289,6 +289,16 @@ margin-bottom:80;
 .ARRAY p{
 	font-family: 'Bentham', serif;
 }
+.ARRAY article a{
+	float:right;
+         border:2px ridge black;
+		 border-radius: 14px;
+		 	background-color:#d3b9ec;
+			padding:2px;
+				text-decoration:none;
+		
+				
+}	
 
 /*for all syntax*/
 h2{
