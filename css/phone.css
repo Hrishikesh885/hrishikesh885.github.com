@@ -11,9 +11,6 @@ header{
 }
 
 /* -------navigation-------------*/
-.DESKTOP{
-	display:none;
-}
 .PHONE {
 	background-color:#8c61b4;
 	padding:15;
@@ -36,6 +33,10 @@ header{
 	text-decoration:none;
 	
 }
+.DESKTOP{
+	display:none;
+}
+
 header h1{
 font-family: 'Acme', sans-serif;
 	font-size:39;
