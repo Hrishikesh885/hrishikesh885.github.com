@@ -1,0 +1,62 @@
+.basic{
+	margin-top:5px;
+	margin-left:7px;
+	margin-bottom:5px;
+	padding:6px;
+	font-size:30;
+	background-color:#a3b4f3;
+	border:2px outset black;
+}
+.theory{
+	margin-top:5px;
+	margin-left:10px;
+	padding:6px;
+	font-size:30;
+	background-color:#a3b4f3;
+	border:2px outset black;
+}
+
+.dropdown {
+	background-color:#611078;
+	padding:9;
+	
+	margin-top:5px;
+}
+/*for basic internal*/
+#basic{
+position:absolute;
+z-index:1;
+color:#8c61b4;
+}
+#basic a{
+	position:relative;
+display:block;
+margin:2px;
+	margin-top:5px;
+	border:2px inset black;
+	border-color:red;
+    padding:1px;
+	background-color:#d3b9ec;
+	font-size:25;
+	text-decoration:none;
+}
+
+
+/*for theory internal*/
+#theory{
+position:absolute;
+z-index:1;
+color:#8c61b4;
+}
+#theory a{
+		position:relative;
+display:block;
+margin:2px;
+	margin-top:5px;
+	border:2px inset black;
+	border-color:red;
+    padding:1px;
+	background-color:#d3b9ec;
+	font-size:25;
+	text-decoration:none;
+}

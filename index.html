@@ -2,8 +2,9 @@
 <body>
 <head>
 		<title>home page </title>
-			<link href="css\phone.css" rel="stylesheet">
+		<link href="css\button.css" rel="stylesheet">
 		 <link href="css\test.css" rel="stylesheet">
+		 <script src="C:\Users\Admin\Desktop\hrishikesh885.github.com\hide.js"></script>
 
 <link href="https://fonts.googleapis.com/css2?family=Acme&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Piedra&display=swap" rel="stylesheet">
@@ -11,62 +12,39 @@
 <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
 
 </head>
-<header><h1>WE TEACH WE LEARN!!</h1>
-<!-- ------------------------------------------------------NAVIGATION------------------------------------->
-<!--<nav>
-    
-    	<a href="#GRAMMAR">GRAMMAR</a> 
-    	<a href="#CLASS">CLASS</a>   
-    	<a href="#IF">IF-ELSE</a>     
-		<a href="#switch">SWITCH</a>   
-		<a href="#FOR">FOR</a>     
-		<a href="#WHILE">WHILE</a> 
-		<a href="#DO-WHILE">DO-WHILE</a> 
- 
-    </nav></header>--></header>
+<header><h1>WE TEACH WE LEARN!!</h1></header>
+
 <div class="intro">    
 <article >
 <h3>ABOUT THIS SITE:- </h3>
 
 <p>My aim is to create a site to display basic concepts of programming and problems related to it and for us to address them together.This will greatly help us to improve our skills. 
-The information written is best to my knowledge.Below is a nav bar for quick access.</p>
+The information written is best to my knowledge.Below is a nav bar for quick access.Just click on your choice and the topic and you shall be redirected.To close click on button again.</p>
 </article>
 </div>
 <!-- ------------------------------------------------------NAVIGATION------------------------------------->
-<!--<div class="DESKTOP">-->
-<nav class="DESKTOP">
-    
-    	<a href="#GRAMMAR">GRAMMAR</a> 
-    	<a href="#CLASS">CLASS</a>   
-    	<a href="#IF">IF-ELSE</a>     
-		
-		<a href="#switch">SWITCH</a>   
-		<a href="#FOR">FOR</a>     
-		<a href="#WHILE">WHILE</a> 
-		<a href="#DO-WHILE">DO-WHILE</a>
-		<a href="#ARRAY">ARRAY</a>
-    </nav>
-	<!--<div class="PHONE">-->
-	<nav class="PHONE">
-	<ul>
+<div class="dropdown">
+<button onclick="show_hide() " class="basic">BASIC</button>
+<div style="display:none" id="basic">
+	<!--<nav >-->
 	
-	<li><a href="#GRAMMAR">GRAMMAR</a></li>
-	<p></p>
-	<li><a href="#CLASS">CLASS</a></li>
-	<p></p>
-    <li><a href="#IF">IF-ELSE</a></li>
-	<p></P>
-	<li><a href="#switch">SWITCH</a></li>
-	<p></p>
-	<li><a href="#FOR">FOR</a></li>
-	<p></p>
-	<li><a href="#WHILE">WHILE</a></li>
-	<p></p>
-	<li><a href="#DO-WHILE">DO-WHILE</a></li>
-	<p></p>
-	<li><a href="#ARRAY">ARRAY</a></li>
-	</ul>
-	</nav>
+	
+	<a href="#GRAMMAR">GRAMMAR</a>
+	<a href="#CLASS">CLASS</a>
+    <a href="#IF">IF-ELSE</a>
+	<a href="#switch">SWITCH</a>
+	<a href="#FOR">FOR</a>
+	<a href="#WHILE">WHILE</a>
+	<a href="#DO-WHILE">DO-WHILE</a>
+	<a href="#ARRAY">ARRAY</a>
+	<!--</nav>-->
+	</div>
+<button onclick="showhide() " class="theory">THEORY</button>
+<div style="display:none" id="theory">
+<a href="#">NOTHING here spent time in this nav bar only will update soon</a>
+</div>
+</div>	
+	
 	
 <!-- ------------------------------------------------------Grammar------------------------------------->
 <div class="Grammar">
@@ -87,7 +65,7 @@ multiple line is /**/.</li>
 <a href="#top">TOP</a></article>
 </div>
 <!-- ------------------------------------------------------BASIC------------------------------------->
-<div class="basic">
+
 <article>
 <!-- ------------------------------------------------------CLASS------------------------------------->
 <div class="class">
@@ -97,7 +75,7 @@ multiple line is /**/.</li>
    </p><a href="#top">TOP</a></article>
 </div>
 </article>
-</div>
+
 <!-- ------------------------------------------------------IF------------------------------------->
 <div class="if">
 <article id="IF">IF:- 
