@@ -4,7 +4,7 @@
 	margin-bottom:5px;
 	padding:6px;
 	font-size:30;
-	background-color:#a3b4f3;
+	background-color:#8aa6be;
 	border:2px outset black;
 }
 .theory{
@@ -12,7 +12,7 @@
 	margin-left:10px;
 	padding:6px;
 	font-size:30;
-	background-color:#a3b4f3;
+	background-color:#8aa6be;
 	border:2px outset black;
 }
 
@@ -31,11 +31,11 @@ color:#8c61b4;
 #basic a{
 	position:relative;
 display:block;
-margin:2px;
+margin:4px;
 	margin-top:5px;
 	border:2px inset black;
 	border-color:red;
-    padding:1px;
+    padding:5px;
 	background-color:#d3b9ec;
 	font-size:25;
 	text-decoration:none;
