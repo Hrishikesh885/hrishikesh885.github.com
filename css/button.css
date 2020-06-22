@@ -14,12 +14,14 @@
 	font-size:30;
 	background-color:#8aa6be;
 	border:2px outset black;
+	
+	text-align:center;
 }
 
 .dropdown {
 	background-color:#611078;
 	padding:9;
-	
+
 	margin-top:5px;
 }
 /*for basic internal*/
