@@ -7,6 +7,7 @@
 	background-color:#8aa6be;
 	border:2px outset black;
 }
+
 .theory{
 	margin-top:5px;
 	margin-left:10px;
@@ -26,7 +27,7 @@
 }
 /*for basic internal*/
 #basic{
-position:absolute;
+position:relative;
 z-index:1;
 color:#8c61b4;
 }
@@ -34,6 +35,8 @@ color:#8c61b4;
 	position:relative;
 display:block;
 margin:4px;
+margin-left:244px;
+margin-right:244px;
 	margin-top:5px;
 	border:2px inset black;
 	border-color:red;
@@ -46,7 +49,7 @@ margin:4px;
 
 /*for theory internal*/
 #theory{
-position:absolute;
+position:relative;
 z-index:1;
 color:#8c61b4;
 }
@@ -55,6 +58,8 @@ color:#8c61b4;
 display:block;
 margin:2px;
 	margin-top:5px;
+	margin-left:244px;
+margin-right:244px;
 	border:2px inset black;
 	border-color:red;
     padding:1px;
