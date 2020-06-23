@@ -317,6 +317,40 @@ margin-bottom:80;
 margin-left:10;
 }
 
+
+/*Object*/
+.object{
+	
+		background-color:#cc99ff;
+		padding:1px;
+		border:5px solid black;
+}
+.object article{
+	font-family: 'Piedra', cursive;
+		font-size:30;
+		margin-top:10;
+margin-left:10;
+margin-bottom:80;
+}
+.object p{
+	font-family: 'Bentham', serif;
+}
+.object article a{
+	float:right;
+         border:2px ridge black;
+		 border-radius: 14px;
+		 	background-color:#d3b9ec;
+			padding:2px;
+				text-decoration:none;
+		
+				
+}	
+.object article ul li{
+			font-family: 'Bentham', serif;
+			font-size:20;
+			margin-top:10;
+margin-left:10;
+}
 /*for all syntax*/
 h2{
 	font-size:30;
