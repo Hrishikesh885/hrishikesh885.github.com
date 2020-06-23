@@ -351,6 +351,72 @@ margin-bottom:80;
 			margin-top:10;
 margin-left:10;
 }
+/*concepts of OOP*/
+.oop{
+	
+		background-color:#cc99ff;
+		padding:1px;
+		border:5px solid black;
+}
+.oop article{
+	font-family: 'Piedra', cursive;
+		font-size:30;
+		margin-top:10;
+margin-left:10;
+margin-bottom:80;
+}
+.oop p{
+	font-family: 'Bentham', serif;
+}
+.oop article a{
+	float:right;
+         border:2px ridge black;
+		 border-radius: 14px;
+		 	background-color:#d3b9ec;
+			padding:2px;
+				text-decoration:none;
+		
+				
+}	
+.oop article ul li{
+			font-family: 'Bentham', serif;
+			font-size:20;
+			margin-top:10;
+margin-left:10;
+}
+/*TOKENS*/
+.token{
+	
+		background-color:#cc99ff;
+		padding:1px;
+		border:5px solid black;
+}
+.token article{
+	font-family: 'Piedra', cursive;
+		font-size:30;
+		margin-top:10;
+margin-left:10;
+margin-bottom:80;
+}
+.token p{
+	font-family: 'Bentham', serif;
+}
+.token article a{
+	float:right;
+         border:2px ridge black;
+		 border-radius: 14px;
+		 	background-color:#d3b9ec;
+			padding:2px;
+				text-decoration:none;
+		
+				
+}	
+.token article ul li{
+			font-family: 'Bentham', serif;
+			font-size:20;
+			margin-top:10;
+margin-left:10;
+}
 /*for all syntax*/
 h2{
 	font-size:30;
