@@ -1,0 +1,10 @@
+@media (max-width: 600px) {
+	.me{
+		display:none;
+	}
+	p{
+		margin-right:none;
+	}
+	
+	
+}
