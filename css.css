@@ -1,3 +1,30 @@
 .me{
+	border:3px solid black;
 	float:right;
+}
+body{
+    background-image: url('1.jpg');
+	background-size:cover;
+}
+header{
+	margin:0px;
+	font-family: 'Cinzel Decorative', cursive;
+	font-size:25px;
+	padding:6px;
+	text-align:center;
+	color:#818186;
+	background-color:#514a5b;
+	
+}
+p{
+	color:#fdfdfd;
+	font-family: 'Bentham', serif;
+			font-size:23;
+}
+li{
+	color:#fdfdfd;
+	
+}
+a{
+	color:#fdfdfd;
 }
