@@ -1,0 +1,29 @@
+body{
+	background-color:#fdf411;
+}
+h1{
+	text-align:center;
+	font-family: 'Notable', sans-serif;
+}
+header{
+	padding:1px;
+	background-color:#ec3237;
+}
+h2{
+	text-align:center;
+	margin-left:30px;
+}
+article{
+
+          margin-left:45px;
+}
+.test article p{
+	margin-left:20px;
+
+}
+.test{
+	padding:2px;
+	padding-left:13px;
+	margin-right:65px; 
+		background-color:#d6d6de;
+}
